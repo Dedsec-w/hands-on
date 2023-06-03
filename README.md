@@ -1,6 +1,6 @@
 Certainly! Here's a suggestion for designing a portfolio-style GitHub README file:
 
-![Portfolio Header](https://your-image-url.com)
+![Portfolio Header](C:\Users\ajit\Desktop\temp)
 
 ## Introduction
 Hello, I'm [Ajit Kumar Nisasd], a passionate Salesforce developer with [1.5] years of experience. I specialize in building scalable and customized Salesforce solutions to meet business needs.
@@ -28,24 +28,19 @@ Hello, I'm [Ajit Kumar Nisasd], a passionate Salesforce developer with [1.5] yea
 ## Certifications
 - Salesforce Certified Administrator
 - Salesforce Certified Platform Developer I
+- - Salesforce Platform App Builder
 
 ## Experience
-### Company A - Salesforce Developer
+### Cognizant Technology Solutions - Salesforce Developer
 - Description: Summarize your responsibilities and contributions in this role.
 - Duration: Mention the duration of your employment.
 
-### Company B - Salesforce Developer
-- Description: Describe your responsibilities and notable achievements in this role.
-- Duration: Mention the duration of your employment.
-
 ## Education
-- Bachelor's Degree in Computer Science (Year)
+- Bachelor of Technology (2020)
 
 ## Contact
 Feel free to reach out to me for any collaboration or opportunities. You can connect with me via [LinkedIn](https://www.linkedin.com/in/ajit-kumar-164750130) or email me at [ajit56184@gmail.com].
 
 ---
 
-Feel free to customize this template to match your personal style, add more projects or certifications, and include any other relevant information. Remember to replace the placeholders with your own details and links to your projects, repositories, and contact information.
 
-Make sure to use proper formatting, such as headings, bullet points, and code blocks, to make your README file visually appealing and easy to read.
